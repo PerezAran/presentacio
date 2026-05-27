@@ -25,7 +25,7 @@ A continuació es presenten els grans blocs de projectes realitzats, organitzats
   * **Identitat i Control:** Creació, gestió i automatització d'estructures de treball inicials documentades de forma professional a GitHub.
 
 #### 🧩 Projecte 3: EverPia 2 — L'Arrancada i la Filosofia
-* **Enllaç al Projecte:** [Anar al Projecte 3](./Projecte3) 
+* **Enllaç al Projecte:** [Anar al Projecte 3](https://github.com/PerezAran/Projecte3) 
 * **El Repte:** Integració com a consultor júnior a la firma *EverPia*, una consultora IT amb esperit educatiu i tecnològic. 
 * **Què vaig aprendre?** Creació, control de versions i documentació rigorosa de repositoris a GitHub, configuració de servidors Linux, serveis essencials de xarxa i els fonaments de la sostenibilitat aplicada a la informàtica.
 
