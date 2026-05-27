@@ -1,4 +1,4 @@
-# 🚀 Portfolio Professional: Trajectòria i Projectes d'Enginyeria IT
+# 🚀 Portfoli Professional: Trajectòria i Projectes d'Enginyeria IT
 > **De Tècnic Júnior a Professional dels Sistemes, les Xarxes i la Sostenibilitat.**
 
 Benvinguts al meu repositori central. Aquest espai recull el conjunt de projectes i solucions tecnològiques reals desenvolupades al llarg del curs. Un viatge formatiu exigent basat en la simulació empresarial, la resolució d'incidències crítiques sota pressió i el disseny d'infraestructures tecnològiques sostenibles.
