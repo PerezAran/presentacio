@@ -18,7 +18,7 @@ A continuació es presenten els grans blocs de projectes realitzats, organitzats
 ### 🌌 Trilogia EverPia: La Immersió en el Món IT
 
 #### 🧩 Projecte 2: EverPia — On tot comença
-* **Enllaç al Projecte:** [Anar al Projecte 2](PerezAran/Projecte2) 
+* **Enllaç al Projecte:** [Anar al Projecte 2](/Projecte2) 
 * **El Repte:** Integració fundacional a *EverPia*, una consultora tecnològica estratègica impulsada per un equip de 8 professors visionaris. El debut com a consultors júnior per afrontar els primers reptes reals del mercat des d'una vessant col·laborativa i metodològica.
 * **Què vaig aprendre?** * **Fonaments de Sistemes i Web:** Configuració inicial de servidors Linux, serveis essencials de xarxa, desplegament de pàgines web base i tècniques de recuperació de sistemes crítics bloquejats.
   * **Metodologies Àgils:** Primera immersió en l'organització del treball mitjançant el mètode **Kanban** utilitzant l'eina *Microsoft Planner* per mantenir el backlog completament optimitzat.
