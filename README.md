@@ -7,9 +7,7 @@ Benvinguts al meu repositori central. Aquest espai recull el conjunt de projecte
 
 ## 👤 El meu Perfil
 
-* **Nom de l'Almune:** [El teu nom aquí]
-* **Rols i Competències:** Administració de Sistemes (Linux/Windows), Seguretat Informàtica, Consultoria IT, Arquitectura Cloud i Gestió Sostenible (Green IT).
-* **Metodologia de Treball:** Fluxos àgils (Git/GitHub), gestió de tasques mitjançant taulers Kanban (Microsoft Planner) i documentació tècnica rigorosa en Markdown.
+* **Nom de l'Almune:** [Aran Perez Rigau]
 
 ---
 
