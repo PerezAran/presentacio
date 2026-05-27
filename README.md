@@ -30,7 +30,7 @@ A continuació es presenten els grans blocs de projectes realitzats, organitzats
 * **Què vaig aprendre?** Creació, control de versions i documentació rigorosa de repositoris a GitHub, configuració de servidors Linux, serveis essencials de xarxa i els fonaments de la sostenibilitat aplicada a la informàtica.
 
 #### 🧯 Projecte 4: EverPia 3 — "Sobreviure en una empresa IT"
-* **Enllaç al Projecte:** [Anar al Projecte 4]([./projecte4](https://github.com/PerezAran/Projecte-4)) 
+* **Enllaç al Projecte:** [Anar al Projecte 4](https://github.com/PerezAran/Projecte-4)) 
 * **El Repte:** L'empresa creix ràpidament i rep més clients dels que pot gestionar. Ascens a tècnic del departament de suport per actuar com a "bomber digital".
 * **Què vaig aprendre?** Resolució d'incidències crítiques sota pressió, gestió de serveis corporatius complexos (DNS, LDAP, LVM), aplicació de plans de recuperació davant desastres (**DRP**) amb la regla de còpies de seguretat 3-2-1, gestió d'accessos remots segurs (SSH, RDP), auditories de sistemes (SOP) i maquetació interactiva (UX/UI) a Figma orientada a e-commerce.
 
