@@ -53,12 +53,12 @@ A continuació es presenten els grans blocs de projectes realitzats, organitzats
 ### 🛡️ Modernització i Digitalització de Clients Reals
 
 #### 📦 Projecte 7: Modernització Tecnològica — FoodLogistic S.A.
-* **Enllaç al Projecte:** [Anar al Projecte 7](https://github.com/PerezAran/projecte7-PerezAran)
+* **Enllaç al Projecte:** [Anar al Projecte 7](https://github.com/PerezAran/projecte-7-PerezAran)
 * **El Repte:** Dissenyar un pla de modernització integral per a una gran empresa de logística alimentària en ple creixement amb una infraestructura obsoleta i problemes crítics de seguretat.
 * **Què vaig aprendre?** Disseny de solucions tècniques integrades, migració controlada de fitxers, polítiques de protecció contra malware, anàlisi i mitigació de vulnerabilitats dels sistemes corporatius i integració d'estratègies Green IT.
 
 #### 🌿 Projecte 8: Connecta't al Futur — El Repte de la Digitalització Real
-* **Enllaç al Projecte:** [Anar al Projecte 8](https://github.com/PerezAran/projecte8-PerezAran) 
+* **Enllaç al Projecte:** [Anar al Projecte 8](https://github.com/PerezAran/projecte-8-PerezAran) 
 * **El Repte:** Actuar com a consultor tecnològic extern per digitalitzar una PIME o negoci local, adaptant-la a l'economia moderna sense comprometre el medi ambient.
 * **Què vaig aprendre?** Resolució de mancances de xarxa locals, translació eficient i segura de dades crítiques cap a entorns Cloud / Híbrids i optimització del cicle de vida dels recursos sota la directriu de la tecnologia verda.
 
